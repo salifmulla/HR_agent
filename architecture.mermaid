@@ -1,0 +1,36 @@
+graph TD
+    subgraph Frontend
+        User[User]
+        Admin[HR Admin]
+        UI[Streamlit UI]
+    end
+
+    subgraph Core Logic
+        App[Application Logic]
+        STT[Speech-to-Text Engine]
+    end
+
+    subgraph Data & AI
+        KB[(Policy File\nhr_policy.txt)]
+        LLM[Google Gemini 2.0 Flash]
+    end
+
+    %% Employee Flow
+    User -->|Text Input| UI
+    User -->|Voice Input| STT
+    STT -->|Transcribed Text| UI
+    UI -->|Query| App
+    App -->|Reads Context| KB
+    App -->|Sends Prompt| LLM
+    LLM -->|Returns Answer/Draft| App
+    App -->|Displays Response| UI
+
+    %% Admin Flow
+    Admin -->|Login & Edit| UI
+    UI -->|Update Policy| App
+    App -->|Writes| KB
+
+    %% Email Flow
+    User -->|Request Email| UI
+    UI -->|Email Details| App
+    App -->|Generate Draft| LLM

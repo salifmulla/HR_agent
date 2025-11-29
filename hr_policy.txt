@@ -1,0 +1,64 @@
+# Company HR Policy Handbook 2025
+
+## 1. Leave Policy
+### 1.1 Annual Leave
+- All full-time employees are entitled to 27 days of paid annual leave per year.
+- Leave must be applied for at least 3 days in advance via the HR portal.
+- Unused leave can be carried forward up to 10 days to the next year.
+
+### 1.2 Sick Leave
+- Employees get 10 days of sick leave annually.
+- A medical certificate is required for sick leave exceeding 2 consecutive days.
+
+### 1.3 Casual Leave
+- 8 days of casual leave are available for personal matters.
+
+### 1.4 Maternity & Paternity Leave
+- Maternity Leave: 26 weeks of paid leave.
+- Paternity Leave: 2 weeks of paid leave.
+
+## 2. Remote Work Policy
+- Employees are allowed to work remotely for up to 2 days a week (Hybrid Model).
+- Core working hours are 10:00 AM to 4:00 PM.
+- Approval from the reporting manager is mandatory for extended remote work.
+- Employees must ensure a stable internet connection and a quiet workspace.
+
+## 3. Employee Benefits
+### 3.1 Health Insurance
+- Comprehensive health insurance covers the employee, spouse, and two children.
+- Coverage limit: ₹5,00,000 per annum.
+- Includes dental and vision checkups once a year.
+
+### 3.2 Learning & Development
+- The company provides a learning allowance of ₹20,000 per year for certifications and courses.
+- Access to Udemy and Coursera enterprise accounts is free for all employees.
+
+### 3.3 Wellness
+- Free gym membership is available at partnered centers.
+- Mental health counseling sessions are available upon request (confidential).
+
+## 4. Code of Conduct
+- Professional behavior is expected at all times.
+- The company has a zero-tolerance policy for harassment and discrimination.
+- Dress code is "Smart Casual" from Monday to Thursday, and "Casual" on Fridays.
+
+## 5. Performance Reviews
+- Performance reviews are conducted bi-annually (June and December).
+- Promotions and salary hikes are decided based on the annual performance score.
+- "Star Performer" awards are given quarterly with a bonus of ₹10,000.
+
+## 6. Travel Policy
+- Domestic Travel: Economy class flights for travel > 6 hours; otherwise, AC train/bus.
+- International Travel: Economy class.
+- Daily Allowance: ₹2,000 per day for food and incidentals during travel.
+- Accommodation: 4-star hotels or equivalent (capped at ₹5,000/night).
+
+## 7. IT & Security Policy
+- Use of personal devices for work is permitted only after IT security clearance (BYOD).
+- Data breaches must be reported immediately to the CISO.
+- Social media usage is restricted during core working hours.
+
+## 8. Termination & Notice Period
+- Notice period for resignation is 2 months.
+- Buyout of notice period is at the discretion of the management.
+- Termination for cause (e.g., fraud, harassment) is immediate without severance.
