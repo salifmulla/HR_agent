@@ -1,6 +1,8 @@
 # HR Assistant Agent
 
 ## Overview
+**Live Demo**: [https://hr-ai-agent.streamlit.app/](https://hr-ai-agent.streamlit.app/)
+
 The **HR Assistant Agent** is an AI-powered tool designed to instantly answer employee queries regarding company policies, leave entitlements, benefits, and remote work guidelines. Built for the **48-Hour AI Agent Development Challenge**, this agent leverages Google's Gemini 2.0 Flash model to provide accurate, context-aware responses based on the company's internal handbook.
 
 ## Features
